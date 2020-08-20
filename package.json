@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.8.4",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "localforage": "^1.7.3",
     "meteor-node-stubs": "^0.4.1",
     "simpl-schema": "^1.5.7",
